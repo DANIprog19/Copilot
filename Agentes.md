@@ -18,7 +18,7 @@ Sua principal funcionalidade é auxiliar turistas a terem uma melhor experiênci
 
 📸 Imagem 1
 
-## ![Teste do agente 1](Imagens\Agente1.png)
+## ![Teste do agente 1](Imagens/Agente1.png)
 
 ### 2️⃣ Copiloto baseado em descrição: Agente Financeiro
 
@@ -31,7 +31,7 @@ Este Agente tem por finalidade auxiliar clientes á terem uma boa educação fin
 
 📸 Imagem 2
 
-## ![Teste do agente 2](Imagens\Agente2.png)
+## ![Teste do agente 2](Imagens/Agente2.png)
 
 ---
 
@@ -46,7 +46,7 @@ Este agente tem por finalidade auxiliar jovens estudantes á ingressarem em univ
 
 📸 Imagem 3
 
-## ![Teste do agente 3](Imagens\Agente3.png)
+## ![Teste do agente 3](Imagens/Agente3.png)
 
 ---
 
